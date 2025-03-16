@@ -16,18 +16,15 @@ Durante este desafio, foram exploradas as seguintes etapas:
   * Configuração da conta e acesso ao Microsoft Copilot Studio.
 
 * Criar um Copilot baseado em modelo
-
-* Utilização de modelos pré-definidos para agilizar a criação.
+  * Utilização de modelos pré-definidos para agilizar a criação.
 
 * Criar um Copilot baseado em descrição
+  *Uso de descrições para gerar um Copiloto personalizado.
 
-Uso de descrições para gerar um Copiloto personalizado.
+* Criar um Copilot em branco
+  * Construção do Copiloto do zero, explorando as configurações disponíveis.
 
-Criar um Copilot em branco
-
-Construção do Copiloto do zero, explorando as configurações disponíveis.
-
-🔍 O que aprendi?
+## 🔍 O que aprendi?
 
 Como acessar e configurar o Microsoft Copilot Studio.
 
@@ -37,16 +34,16 @@ A importância da personalização para atender necessidades específicas.
 
 Como armazenar e compartilhar projetos no GitHub.
 
-📂 Como acessar este repositório?
+## 📂 Como acessar este repositório?
 
 Para visualizar os arquivos e acompanhar o progresso do desafio, acesse:
 🔗 GitHub Repository
 
-📢 Contribuições
+## 📢 Contribuições
 
 Sinta-se à vontade para sugerir melhorias, relatar problemas ou compartilhar ideias! 😊
 
-🏆 Conclusão
+## 🏆 Conclusão
 
 Este desafio foi uma ótima oportunidade para conhecer melhor o Microsoft Copilot Studio e suas possibilidades. Pretendo aprofundar ainda mais meus conhecimentos e aplicar em projetos futuros!
 
