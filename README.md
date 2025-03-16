@@ -6,7 +6,7 @@ Este repositório contém a documentação e o resumo da minha experiência ao c
 
 ## 🎯 Objetivo
 
-O desafio proposto envolve a criação e configuração de um Copiloto utilizando diferentes abordagens disponíveis na plataforma.
+O desafio proposto faz parta do Bootecamp -**Suzano - Python Developer da [DIO](https://www.dio.me/).** Envolve a criação e configuração de um Copiloto utilizando diferentes abordagens disponíveis na plataforma.
 
 ## 🛠 O que foi feito?
 
@@ -18,11 +18,19 @@ Durante este desafio, foram exploradas as seguintes etapas:
 * Criar um Copilot baseado em modelo
   * Utilização de modelos pré-definidos para agilizar a criação.
 
+![Assistente de viagens](https://github.com/user-attachments/assets/53e3a509-f939-470e-9ea8-9583e8619120)
+
+
 * Criar um Copilot baseado em descrição
-  * Uso de descrições para gerar um Copiloto personalizado.
+  * Uso de descrições para gerar um Copiloto personalizado
+
+
+![Agente da dio](https://github.com/user-attachments/assets/19bf7fca-3da3-4a44-8c1a-fbf6e0af722b)
 
 * Criar um Copilot em branco
   * Construção do Copiloto do zero, explorando as configurações disponíveis.
+
+![novo gente em branco](https://github.com/user-attachments/assets/5254a98d-97c8-46dc-a717-3d65bdb353ce)
 
 ## 🔍 O que aprendi?
 
