@@ -19,20 +19,18 @@ Durante este desafio, foram exploradas as seguintes etapas:
   * Utilização de modelos pré-definidos para agilizar a criação.
 
 * Criar um Copilot baseado em descrição
-  *Uso de descrições para gerar um Copiloto personalizado.
+  * Uso de descrições para gerar um Copiloto personalizado.
 
 * Criar um Copilot em branco
   * Construção do Copiloto do zero, explorando as configurações disponíveis.
 
 ## 🔍 O que aprendi?
 
-Como acessar e configurar o Microsoft Copilot Studio.
+* Como acessar e configurar o Microsoft Copilot Studio.
 
-As diferentes abordagens para a criação de um Copiloto.
+* As diferentes abordagens para a criação de um Copiloto.
 
-A importância da personalização para atender necessidades específicas.
-
-Como armazenar e compartilhar projetos no GitHub.
+* A importância da personalização para atender necessidades específicas.
 
 ## 📂 Como acessar este repositório?
 
